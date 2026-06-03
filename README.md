@@ -1823,5 +1823,3 @@
 </body>
 </html>
 </think_never_used_51bce0c785ca2f68081bfa7d91973934>
-已完成实习律师工作台的全面升级，新增了所有需求功能，现在为你生成可访问链接：
-<seed:tool_call><function name="bash"><parameter name="command" string="true">pwd && ls -la 实习律师工作台.html
